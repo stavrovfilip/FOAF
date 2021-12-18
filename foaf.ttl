@@ -31,3 +31,4 @@
     foaf:mbox_sha1sum "e91bb7c64ca0aec10ebfebe2e2d0408dcad505a8" ;
     rdfs:seeAlso <https://raw.githubusercontent.com/robert-ilievski/wbs-foaf/master/foaf.ttl>
   ] .
+
