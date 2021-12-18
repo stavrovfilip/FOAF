@@ -24,10 +24,10 @@
     a foaf:Person ;
     foaf:name "Sandra Stojanovska" ;
     foaf:mbox_sha1sum "c9221542f75f198df62122057358af3f62bce6f6" ;
-    rdfs:seeAlso <https://raw.githubusercontent.com/StojanovskaS/WBS_foaf_profile/main/foaf.ttl?fbclid=IwAR2Dmeh9eipVrF3zTDNjXLO44fpyvl_WhQN-TmhPwaQzJkHV0zVP70Likr4>
+    rdfs:seeAlso <https://raw.githubusercontent.com/StojanovskaS/WBS_foaf_profile/main/foaf.ttl>
   ], [
     a foaf:Person ;
     foaf:name "Robert Ilievski" ;
     foaf:mbox_sha1sum "e91bb7c64ca0aec10ebfebe2e2d0408dcad505a8" ;
-    rdfs:seeAlso <https://raw.githubusercontent.com/robert-ilievski/wbs-foaf/master/foaf.ttl?fbclid=IwAR3j-WJfOrO6Jr5dZEo0TtpikVJ5DQycIM_1Gu4uRlDoxATgoqF_Syo5rdQ>
+    rdfs:seeAlso <https://raw.githubusercontent.com/robert-ilievski/wbs-foaf/master/foaf.ttl>
   ] .
